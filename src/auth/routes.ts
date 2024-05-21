@@ -20,3 +20,4 @@ export class AuthRoutes { // 1
     }
   
   }
+  
